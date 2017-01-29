@@ -106,7 +106,7 @@ body {
 }
 
 #photos .back {
-	background-image: url(../images/bottons/Photos_botton.jpg);
+	background-image: url(../../images/bottons/Photos_botton.jpg);
 }
 
 #return {
@@ -116,7 +116,7 @@ body {
 }
 
 #return .back {
-	background-image: url(../images/bottons/Return_botton.jpg);
+	background-image: url(../../images/bottons/Return_botton.jpg);
 }
 
 /* Primary Section */
